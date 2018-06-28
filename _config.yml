@@ -11,8 +11,8 @@ tagline:          'A constructed language'
 description:      "A easy-to-learn constructed language that is intuitively understood by AI in Kimeiga's games. Created by <a href='http://kimei.ga' target='_blank'>Kimeiga</a>."
 # url:              https://kimeiga.github.io/kairen
 
-baseurl: /kairen
-url: https://kimeiga.github.io
+url: https://kimeiga.github.io/kairen
+root: /
 
 author:
   name:           'Hakan Kimeiga Alpay'
