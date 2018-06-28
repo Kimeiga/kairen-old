@@ -13,6 +13,7 @@ description:      "A easy-to-learn constructed language that is intuitively unde
 
 url: https://kimeiga.github.io/
 baseurl: /kairen
+root: /kairen
 
 author:
   name:           'Hakan Kimeiga Alpay'
