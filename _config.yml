@@ -6,7 +6,7 @@ plugins: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Kairene
+title:            Kairen
 tagline:          'A constructed language'
 description:      "A easy-to-learn constructed language that is intuitively understood by AI in Kimeiga's games. Created by <a href='http://kimei.ga' target='_blank'>Kimeiga</a>."
 # url:              https://kimeiga.github.io/kairen
