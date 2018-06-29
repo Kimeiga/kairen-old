@@ -1,19 +1,17 @@
 # Dependencies
 markdown:         kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
 kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-highlighter: rouge
-plugins: [jekyll-paginate]
-# Permalinks
-permalink:        pretty
+
 
 # Setup
 title:            Kairen
 tagline:          'A constructed language'
 description:      "A easy-to-learn constructed language that is intuitively understood by AI in Kimeiga's games. Created by <a href='http://kimei.ga' target='_blank'>Kimeiga</a>."
-baseurl:          /kairen
 
 author:
   name:           'Hakan Kimeiga Alpay'
