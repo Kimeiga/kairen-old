@@ -2,7 +2,7 @@ module Jekyll
     class PagesDirGenerator < Generator
       def generate(site)
         pages_dir = site.config['pages'] || './_pages'
-        all_raw_paths = Dir["#{site.source}/#{pages_dir}/**/*"]
+        all_raw_paths = Dir["#{site.source}#{site.baseurl}/#{pages_dir}/**/*"]
         all_raw_paths.each do |f|
   
           if File.file?(f)
