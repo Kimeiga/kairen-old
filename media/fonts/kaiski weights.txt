@@ -1,0 +1,25 @@
+Kaiski font convention!!
+
+Size	value	weight	
+
+3x3+	900	black	
+4x4+	700	bold	
+5x5+	400	normal
+6x6+	300	light	
+7x7+	200	ultralight
+8x8+	100	thin	
+
+Use these suffixes when developing fonts on fontstruct
+
+Kaiski Sans:
+
+
+Size	value	weight	done?		worth?
+
+3x3	900	black	NOT DONE	NAH (?)
+4x4	700	bold	DONE
+5x5	400	normal	NOT DONE
+6x6	300	light	DONE
+7x7	200	ultralight	NOT DONE
+8x8	100	thin	NOT DONE
+

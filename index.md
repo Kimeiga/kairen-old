@@ -13,7 +13,7 @@ By default, verbs are present continuous
 
 > _I ma hepi. [I am happy.]_
 
-Add **"pa"** to end of verb for past tense. Add **"fu"** to end of verb for future tense.
+Add **"pa"** to end dof verb for past tense. Add **"fu"** to end of verb for future tense.
 
 > _Yu bu ma **pa** hepi. [You weren't happy.]_
 
