@@ -26,6 +26,7 @@ $black: #000000;
 // 		 url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
 // 		 url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 // }
+
 @font-face {
 	font-family: 'Kaiski Akzidenz';
 	src: url('/media/fonts/KaiskiAkzidenz-Regular.ttf') format('truetype');
@@ -57,6 +58,15 @@ body{
 		h1 {
 			color: white;
 			font-weight: 800;
+			font-size: 3.25rem;
+			margin: -20px 0;
+		}
+		h2 {
+			color: white;
+			font-weight: 800;
+			font-family: 'Kaiski Akzidenz', sans-serif;
+			font-size: 3rem;
+			margin: 0;
 		}
 	}
 
